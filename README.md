@@ -13,7 +13,7 @@ areas where turbines may not be accessible for sustained periods of time due to 
 heights (i.e. offshore wind turbines) or too strong wind speeds.
 
 In this case study, our goal was to use Markovian Analysis to find an optimal maintenance
-policy which maximizes total yearly profit. 
+policy which maximizes total yearly profit. Excel was used for this project.
 
 ## Completion Date
 
